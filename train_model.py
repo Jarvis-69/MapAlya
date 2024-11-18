@@ -38,39 +38,26 @@ bleu_metric = load_metric("bleu")
 
 # Fonction de calcul des métriques
 def compute_metrics(eval_pred):
-    """
-    Calcule les métriques d'évaluation, y compris BLEU et exact match.
-    """
     predictions, labels = eval_pred
 
-    # Vérifiez et ajustez les prédictions
     if isinstance(predictions, tuple):
         predictions = predictions[0]
     if isinstance(predictions, torch.Tensor):
         predictions = predictions.cpu().numpy()
-    if predictions.ndim == 3:  # Si les prédictions sont de dimension (batch_size, seq_len, vocab_size)
+    if predictions.ndim == 3:
         predictions = predictions.argmax(axis=-1)
 
-    # Décodage des prédictions et labels
     decoded_preds = tokenizer.batch_decode(predictions, skip_special_tokens=True)
     decoded_preds = [pred.strip() for pred in decoded_preds]
 
     decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
     decoded_labels = [label.strip() for label in decoded_labels]
 
-    # Ajustement pour le calcul de BLEU
-    preds_for_bleu = [" ".join(pred.split()) for pred in decoded_preds]  # Transforme en séquences valides
-    labels_for_bleu = [[" ".join(label.split())] for label in decoded_labels]  # Références en format correct
+    preds_for_bleu = [" ".join(pred.split()) for pred in decoded_preds]
+    labels_for_bleu = [[" ".join(label.split())] for label in decoded_labels]
 
-    # Vérifiez les formats pour diagnostiquer
-    print("=== DIAGNOSTIC ===")
-    print(f"Predictions BLEU format: {preds_for_bleu[:3]}")
-    print(f"References BLEU format: {labels_for_bleu[:3]}")
-
-    # Calcul du score BLEU
     bleu = bleu_metric.compute(predictions=preds_for_bleu, references=labels_for_bleu)["bleu"]
 
-    # Calcul de l'accuracy
     exact_matches = sum([1 for pred, label in zip(decoded_preds, decoded_labels) if pred == label])
     accuracy = exact_matches / len(decoded_labels) if decoded_labels else 0.0
 
@@ -103,42 +90,86 @@ trainer.train()
 model.save_pretrained("./trained_model_corrector")
 tokenizer.save_pretrained("./trained_model_corrector")
 
+# Amélioration 1 : Export des résultats d'évaluation
+def export_evaluation_results():
+    """
+    Sauvegarde les résultats d'évaluation dans un fichier JSON.
+    """
+    eval_results = trainer.evaluate()
+    eval_results_file = "evaluation_results.json"
+    with open(eval_results_file, "w") as file:
+        json.dump(eval_results, file, indent=4)
+    print(f"Résultats d'évaluation sauvegardés dans {eval_results_file}.")
+
+# Appel de la fonction d'export des résultats d'évaluation
+export_evaluation_results()
+
+# Amélioration 2 : Export des fichiers EDIFACT et comparaison automatique
 def export_edifact_files():
     """
-    Fonction pour exporter les prédictions en fichier EDIFACT.
+    Transforme les prédictions en fichiers EDIFACT lisibles et compare avec les références.
     """
     predictions_file = "predictions.json"
+    output_dir = "output_edifact"
 
     # Vérifiez si le dataset d'évaluation est défini
-    dataset_to_use = eval_dataset if 'eval_dataset' in globals() else val_dataset
-    if dataset_to_use is None:
-        raise ValueError("Ni `eval_dataset` ni `val_dataset` ne sont définis. Assurez-vous qu'un jeu de données est disponible pour l'évaluation.")
-    
+    dataset_to_use = val_dataset
+
     if not os.path.exists(predictions_file) or os.path.getsize(predictions_file) == 0:
         print(f"Fichier {predictions_file} non trouvé ou vide. Génération des prédictions...")
         
-        # Générez les prédictions
         predictions = trainer.predict(dataset_to_use).predictions
-        
-        # Si predictions est un tuple, extraire le premier élément
         if isinstance(predictions, tuple):
             predictions = predictions[0]
 
-        # Sauvegarder les prédictions
         with open(predictions_file, "w") as pred_file:
             json.dump(predictions.tolist(), pred_file)
         print(f"Prédictions sauvegardées dans {predictions_file}.")
 
-    # Lecture des prédictions
-    if os.path.getsize(predictions_file) > 0:  # Assurez-vous que le fichier n'est pas vide avant de lire
-        with open(predictions_file, "r") as pred_file:
-            predictions = json.load(pred_file)
-            print(f"Prédictions chargées depuis {predictions_file}.")
-    else:
-        raise ValueError(f"Le fichier {predictions_file} est vide après tentative d'écriture. Vérifiez les prédictions générées.")
-    
-    # Ajoutez ici la logique pour convertir en EDIFACT
-    print("Traitement des prédictions pour générer des fichiers EDIFACT...")
+    with open(predictions_file, "r") as pred_file:
+        predictions = json.load(pred_file)
 
-# Appel de la fonction d'export
+    os.makedirs(output_dir, exist_ok=True)
+
+    for idx, prediction in enumerate(predictions):
+        edifact_content = f"UNA:+.? '\nUNB+UNOC:3+SENDER+RECEIVER+20231117:1259+{idx}'\n"
+        edifact_content += f"UNH+{idx}+INVOIC:D:96A:UN'\n"
+        edifact_content += f"{' '.join(map(str, prediction))}\n"
+        edifact_content += "UNT+1+INVOIC'\nUNZ+1+00001'"
+
+        output_file = os.path.join(output_dir, f"edifact_message_{idx + 1}.edi")
+        with open(output_file, "w") as edifact_file:
+            edifact_file.write(edifact_content)
+
+    print(f"Transformation réussie ! Les fichiers EDIFACT ont été sauvegardés dans {output_dir}.")
+
+    # Comparaison automatique
+    analyze_edifact_predictions(output_dir)
+
+def analyze_edifact_predictions(output_dir="output_edifact"):
+    """
+    Analyse automatiquement les prédictions EDIFACT et compare avec les références.
+    """
+    with open("synthetic_edifact_data_with_errors.json", "r") as file:
+        data = json.load(file)
+
+    correct_segments = data["correct_segments"]
+
+    accuracy_count = 0
+    total_files = 0
+
+    for idx, correct_segment in enumerate(correct_segments):
+        edifact_file = os.path.join(output_dir, f"edifact_message_{idx + 1}.edi")
+        if os.path.exists(edifact_file):
+            with open(edifact_file, "r") as file:
+                prediction = file.read()
+
+            if correct_segment in prediction:
+                accuracy_count += 1
+            total_files += 1
+
+    accuracy = accuracy_count / total_files if total_files > 0 else 0.0
+    print(f"Accuracy sur les fichiers EDIFACT : {accuracy:.2%}")
+
+# Appel de la fonction d'export des fichiers EDIFACT
 export_edifact_files()

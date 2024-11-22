@@ -1,5 +1,5 @@
 *.pt
 *.safetensors
 **/predictions.json
-*.lib
+**/dnnl.lib
 *.dll

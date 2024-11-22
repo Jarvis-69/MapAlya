@@ -1,0 +1,6002 @@
+[
+    {
+        "original_segment": "MOA+79:5069.79",
+        "erroneous_segment": "MOA+79:5069.79",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+308483586",
+        "erroneous_segment": "NAD+BY+308483586",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+810259",
+        "erroneous_segment": "ZZZ+BGM+810259",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+533668172",
+        "erroneous_segment": "NAD+SU+533668172",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20201025",
+        "erroneous_segment": "DTM+137:20201025",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+50",
+        "erroneous_segment": "LIN+50",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+961466839",
+        "erroneous_segment": "NAD+SU+961466839",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8365.12",
+        "erroneous_segment": "TAX725:MOA124:8365.12",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+1",
+        "erroneous_segment": "LIN+1",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8797.93",
+        "erroneous_segment": "TAX+7+25:MOA+124:8797.93",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20240622",
+        "erroneous_segment": "DTM+137:20240622",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+60",
+        "erroneous_segment": "LIN+60",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+639236177",
+        "erroneous_segment": "NAD+SU+639236177",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+140304937",
+        "erroneous_segment": "NAD+SU+140304937",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+653221800",
+        "erroneous_segment": "NAD+BY+653221800",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+74",
+        "erroneous_segment": "LIN+74",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:6631.01",
+        "erroneous_segment": "MOA+79:6631.01",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+409629",
+        "erroneous_segment": "BGM+409629",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+80",
+        "erroneous_segment": "LIN+80",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+635127711",
+        "erroneous_segment": "NAD+BY+635127711",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+923594670",
+        "erroneous_segment": "NAD+SU+923594670",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20251015",
+        "erroneous_segment": "ZZZ+DTM+137:20251015",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20220717",
+        "erroneous_segment": "DTM+137:20220717",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+779969259",
+        "erroneous_segment": "NADBY779969259",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2476.52",
+        "erroneous_segment": "TAX+7+25:MOA+124:2476.52",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20230426",
+        "erroneous_segment": "DTM+137:20230426",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:6507.87",
+        "erroneous_segment": "MOA+79;6507.87",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+82",
+        "erroneous_segment": "LIN+82",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5125.18",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:5125.18",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20250801",
+        "erroneous_segment": "DTM+137:20250801",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+974090",
+        "erroneous_segment": "BGM+974090",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4635.65",
+        "erroneous_segment": "TAX+7+25:MOA+124:4635.65",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:4526.50",
+        "erroneous_segment": "MOA+79:4526.50",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1578.33",
+        "erroneous_segment": "TAX+7+25:MOA+124:1578.33",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:873.59",
+        "erroneous_segment": "MOA+79:873.59",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8515.19",
+        "erroneous_segment": "TAX+7+25:MOA+124:8515.19",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:868.74",
+        "erroneous_segment": "TAX725:MOA124:868.74",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+399143851",
+        "erroneous_segment": "NADSU399143851",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20201016",
+        "erroneous_segment": "DTM+137:20201016",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+952016",
+        "erroneous_segment": "ZZZ+BGM+952016",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+873721",
+        "erroneous_segment": "BGM+87372",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+422756385",
+        "erroneous_segment": "NAD+SU+422756385",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:3711.96",
+        "erroneous_segment": "MOA+79:3711.96",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+760875248",
+        "erroneous_segment": "NAD+SU+760875248",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5498.41",
+        "erroneous_segment": "TAX+7+25:MOA+124:5498.41",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+426380681",
+        "erroneous_segment": "NAD+BY+426380681",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+387821915",
+        "erroneous_segment": "NAD+SU+387821915",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+24",
+        "erroneous_segment": "UNA+LIN+24",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+32",
+        "erroneous_segment": "LIN+32",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:347.15",
+        "erroneous_segment": "MOA+79:347.15",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+258240556",
+        "erroneous_segment": "UNA+NAD+SU+258240556",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+829243",
+        "erroneous_segment": "BGM+829243",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:743.97",
+        "erroneous_segment": "MOA+79:743.97",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+343721110",
+        "erroneous_segment": "NAD+BY+343721110",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+997394318",
+        "erroneous_segment": "NAD+BY+997394318",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+888764465",
+        "erroneous_segment": "NAD+SU+888764465",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+590089",
+        "erroneous_segment": "BGM+59008",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+280502208",
+        "erroneous_segment": "NAD+BY+280502208",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6366.78",
+        "erroneous_segment": "TAX+7+25:MOA+124:6366.78",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20230208",
+        "erroneous_segment": "DTM+137:20230208",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:3180.12",
+        "erroneous_segment": "MOA+79;3180.12",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+745233",
+        "erroneous_segment": "BGM+745233",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+576974617",
+        "erroneous_segment": "NAD+SU+576974617",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+379855",
+        "erroneous_segment": "BGM+379855",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:1146.44",
+        "erroneous_segment": "MOA+79:1146.44",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20210521",
+        "erroneous_segment": "ZZZ+DTM+137:20210521",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5779.31",
+        "erroneous_segment": "TAX+7+25:MOA+124:5779.31",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+280513981",
+        "erroneous_segment": "NAD+SU+280513981",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+185801463",
+        "erroneous_segment": "NAD+BY+185801463",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+350648",
+        "erroneous_segment": "BGM+350648",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+211147347",
+        "erroneous_segment": "NAD+SU+211147347",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20251111",
+        "erroneous_segment": "DTM+137:20251111",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:7848.11",
+        "erroneous_segment": "MOA+79;7848.11",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1808.65",
+        "erroneous_segment": "TAX+7+25:MOA+124:1808.65",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+389358",
+        "erroneous_segment": "BGM+389358",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20210203",
+        "erroneous_segment": "DTM+137:20210203",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+199364561",
+        "erroneous_segment": "NAD+SU+19936456",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20200117",
+        "erroneous_segment": "DTM137:20200117",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+97",
+        "erroneous_segment": "LIN+97",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+608539",
+        "erroneous_segment": "BGM+608539",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+68",
+        "erroneous_segment": "LIN+68",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:7504.31",
+        "erroneous_segment": "MOA+79:7504.31",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+640851",
+        "erroneous_segment": "BGM+640851",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:7854.93",
+        "erroneous_segment": "MOA+79:7854.93",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+395830487",
+        "erroneous_segment": "NAD+BY+395830487",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20210610",
+        "erroneous_segment": "DTM+137:20210610",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2858.51",
+        "erroneous_segment": "TAX+7+25:MOA+124:2858.51",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+779474833",
+        "erroneous_segment": "NAD+BY+779474833",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3898.52",
+        "erroneous_segment": "TAX+7+25:MOA+124:3898.52",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+345224",
+        "erroneous_segment": "BGM+345224",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:1357.81",
+        "erroneous_segment": "MOA+79:1357.81",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+654259",
+        "erroneous_segment": "BGM+654259",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:9978.26",
+        "erroneous_segment": "MOA+79:9978.26",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4168.14",
+        "erroneous_segment": "TAX725:MOA124:4168.14",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20240914",
+        "erroneous_segment": "DTM+137:20240914",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+653883300",
+        "erroneous_segment": "NAD+SU+653883300",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+544780686",
+        "erroneous_segment": "NAD+BY+54478068",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7612.04",
+        "erroneous_segment": "TAX+7+25:MOA+124:7612.04",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+264180898",
+        "erroneous_segment": "NAD+SU+26418089",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+258085",
+        "erroneous_segment": "BGM+258085",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+255223084",
+        "erroneous_segment": "NAD+BY+255223084",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6203.59",
+        "erroneous_segment": "TAX+7+25:MOA+124:6203.59",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20220913",
+        "erroneous_segment": "DTM+137:20220913",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:7680.90",
+        "erroneous_segment": "MOA+79:7680.90",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+158007110",
+        "erroneous_segment": "NAD+BY+158007110",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+245805288",
+        "erroneous_segment": "NAD+BY+245805288",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+945007",
+        "erroneous_segment": "UNA+BGM+945007",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3192.51",
+        "erroneous_segment": "TAX725:MOA124:3192.51",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+578293900",
+        "erroneous_segment": "NAD+BY+578293900",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+524180375",
+        "erroneous_segment": "NADSU524180375",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+82",
+        "erroneous_segment": "LIN+82",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+300461484",
+        "erroneous_segment": "NAD+BY+300461484",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+891609",
+        "erroneous_segment": "BGM+89160",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+111080692",
+        "erroneous_segment": "NAD+BY+111080692",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+125971",
+        "erroneous_segment": "BGM+125971",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+756479762",
+        "erroneous_segment": "NAD+SU+756479762",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+687460",
+        "erroneous_segment": "BGM+687460",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:9791.56",
+        "erroneous_segment": "TAX+7+25:MOA+124:9791.56",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:8738.30",
+        "erroneous_segment": "MOA+79:8738.3",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+427561389",
+        "erroneous_segment": "UNA+NAD+SU+427561389",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+97",
+        "erroneous_segment": "LIN+97",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+419382273",
+        "erroneous_segment": "NAD+BY+419382273",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8440.52",
+        "erroneous_segment": "TAX+7+25:MOA+124:8440.52",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:8868.60",
+        "erroneous_segment": "MOA+79:8868.60",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+448991623",
+        "erroneous_segment": "NAD+SU+448991623",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:303.05",
+        "erroneous_segment": "MOA+79:303.05",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:7019.48",
+        "erroneous_segment": "MOA+79;7019.48",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1161.15",
+        "erroneous_segment": "TAX+7+25;MOA+124;1161.15",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+226534358",
+        "erroneous_segment": "UNA+NAD+SU+226534358",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20250214",
+        "erroneous_segment": "DTM+137:20250214",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2455.58",
+        "erroneous_segment": "TAX+7+25:MOA+124:2455.58",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20210413",
+        "erroneous_segment": "DTM+137:20210413",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20230906",
+        "erroneous_segment": "DTM+137:20230906",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6418.72",
+        "erroneous_segment": "TAX+7+25:MOA+124:6418.7",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2239.97",
+        "erroneous_segment": "TAX+7+25:MOA+124:2239.97",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+644687295",
+        "erroneous_segment": "NAD+SU+644687295",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+525438362",
+        "erroneous_segment": "NAD+BY+525438362",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+433693641",
+        "erroneous_segment": "NAD+SU+43369364",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+539363586",
+        "erroneous_segment": "UNA+NAD+SU+539363586",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+300021710",
+        "erroneous_segment": "NAD+SU+300021710",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2009.13",
+        "erroneous_segment": "TAX+7+25:MOA+124:2009.1",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+336939",
+        "erroneous_segment": "BGM+336939",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:3826.56",
+        "erroneous_segment": "MOA+79;3826.56",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:9721.03",
+        "erroneous_segment": "UNA+MOA+79:9721.03",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20200725",
+        "erroneous_segment": "DTM+137:20200725",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:8551.60",
+        "erroneous_segment": "MOA+79:8551.60",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+443799",
+        "erroneous_segment": "BGM+443799",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20250102",
+        "erroneous_segment": "DTM+137:20250102",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+78",
+        "erroneous_segment": "UNA+LIN+78",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+787728050",
+        "erroneous_segment": "UNA+NAD+SU+787728050",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20220806",
+        "erroneous_segment": "DTM+137:20220806",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:3225.79",
+        "erroneous_segment": "MOA+79:3225.79",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+360974",
+        "erroneous_segment": "BGM+36097",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:1254.11",
+        "erroneous_segment": "MOA+79:1254.11",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:157.22",
+        "erroneous_segment": "MOA+79:157.22",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+7",
+        "erroneous_segment": "LIN7",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+108195605",
+        "erroneous_segment": "UNA+NAD+BY+108195605",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:4358.11",
+        "erroneous_segment": "MOA+79:4358.11",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+74",
+        "erroneous_segment": "LIN+74",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+966630700",
+        "erroneous_segment": "NAD+SU+96663070",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2600.27",
+        "erroneous_segment": "TAX725:MOA124:2600.27",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+603438916",
+        "erroneous_segment": "NAD+BY+603438916",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:5505.48",
+        "erroneous_segment": "MOA+79:5505.48",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+70",
+        "erroneous_segment": "LIN+70",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1291.71",
+        "erroneous_segment": "TAX+7+25:MOA+124:1291.71",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+474720567",
+        "erroneous_segment": "NAD+BY+47472056",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20210722",
+        "erroneous_segment": "DTM+137:20210722",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+624225012",
+        "erroneous_segment": "NAD+SU+624225012",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+211840409",
+        "erroneous_segment": "NAD+SU+211840409",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+934143674",
+        "erroneous_segment": "NAD+BY+934143674",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+829282",
+        "erroneous_segment": "BGM+829282",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:8436.35",
+        "erroneous_segment": "MOA+79:8436.35",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20250220",
+        "erroneous_segment": "DTM137:20250220",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+49",
+        "erroneous_segment": "LIN+49",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+446936366",
+        "erroneous_segment": "NAD+BY+446936366",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+5",
+        "erroneous_segment": "LIN+5",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+84",
+        "erroneous_segment": "LIN84",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+816105978",
+        "erroneous_segment": "NAD+SU+816105978",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:9781.61",
+        "erroneous_segment": "MOA+79:9781.61",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+821288946",
+        "erroneous_segment": "NAD+SU+821288946",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:2753.37",
+        "erroneous_segment": "MOA+79:2753.37",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20230118",
+        "erroneous_segment": "DTM+137:20230118",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+114278787",
+        "erroneous_segment": "NAD+BY+114278787",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+750134712",
+        "erroneous_segment": "UNA+NAD+SU+750134712",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:2663.52",
+        "erroneous_segment": "MOA+79:2663.5",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+827527253",
+        "erroneous_segment": "NAD+SU+827527253",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+93",
+        "erroneous_segment": "LIN+93",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:8468.04",
+        "erroneous_segment": "MOA+79:8468.04",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+639363292",
+        "erroneous_segment": "NAD+BY+639363292",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+770832248",
+        "erroneous_segment": "NAD+BY+770832248",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+280965",
+        "erroneous_segment": "BGM+280965",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+302886",
+        "erroneous_segment": "BGM302886",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20250812",
+        "erroneous_segment": "UNA+DTM+137:20250812",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20221210",
+        "erroneous_segment": "DTM+137:20221210",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+932942382",
+        "erroneous_segment": "NAD+BY+932942382",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+895095",
+        "erroneous_segment": "BGM+895095",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20201123",
+        "erroneous_segment": "DTM+137:20201123",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20220302",
+        "erroneous_segment": "DTM+137:20220302",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+98",
+        "erroneous_segment": "LIN+98",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+55",
+        "erroneous_segment": "LIN+55",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+907888",
+        "erroneous_segment": "BGM907888",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20231018",
+        "erroneous_segment": "DTM+137:20231018",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+23",
+        "erroneous_segment": "LIN23",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20220921",
+        "erroneous_segment": "DTM+137:2022092",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:262.55",
+        "erroneous_segment": "TAX+7+25:MOA+124:262.55",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2830.80",
+        "erroneous_segment": "TAX+7+25:MOA+124:2830.80",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+209564",
+        "erroneous_segment": "BGM+20956",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+736524781",
+        "erroneous_segment": "NAD+SU+736524781",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+994252922",
+        "erroneous_segment": "NAD+BY+994252922",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+528643",
+        "erroneous_segment": "BGM528643",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:5175.30",
+        "erroneous_segment": "MOA+79:5175.30",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+295393392",
+        "erroneous_segment": "NAD+SU+295393392",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+7",
+        "erroneous_segment": "LIN+7",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3211.04",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:3211.04",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+85",
+        "erroneous_segment": "LIN+85",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+25",
+        "erroneous_segment": "LIN+25",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20240414",
+        "erroneous_segment": "DTM+137:20240414",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+221372963",
+        "erroneous_segment": "NAD+BY+221372963",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+682984460",
+        "erroneous_segment": "NAD+SU+682984460",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+98",
+        "erroneous_segment": "LIN+98",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+409114",
+        "erroneous_segment": "BGM+40911",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+228277745",
+        "erroneous_segment": "NAD+SU+22827774",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+68",
+        "erroneous_segment": "LIN+68",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+878459",
+        "erroneous_segment": "BGM+878459",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+936871",
+        "erroneous_segment": "BGM+936871",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+410222",
+        "erroneous_segment": "BGM+410222",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+88",
+        "erroneous_segment": "LIN+88",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+163722",
+        "erroneous_segment": "BGM+163722",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+536630889",
+        "erroneous_segment": "NAD+SU+536630889",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+654986546",
+        "erroneous_segment": "NAD+BY+654986546",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+555137259",
+        "erroneous_segment": "NAD+BY+55513725",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:5656.33",
+        "erroneous_segment": "MOA+79:5656.33",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+53",
+        "erroneous_segment": "LIN+5",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5460.07",
+        "erroneous_segment": "TAX+7+25:MOA+124:5460.07",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+85",
+        "erroneous_segment": "LIN+85",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+346102454",
+        "erroneous_segment": "NADSU346102454",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:3940.06",
+        "erroneous_segment": "MOA+79:3940.0",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+141648983",
+        "erroneous_segment": "NAD+SU+141648983",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+108710",
+        "erroneous_segment": "BGM+108710",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+902564",
+        "erroneous_segment": "BGM+902564",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8106.98",
+        "erroneous_segment": "TAX+7+25:MOA+124:8106.98",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5435.72",
+        "erroneous_segment": "TAX+7+25:MOA+124:5435.72",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+564688945",
+        "erroneous_segment": "NAD+SU+564688945",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20200520",
+        "erroneous_segment": "DTM137:20200520",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+844641",
+        "erroneous_segment": "BGM+84464",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+852274267",
+        "erroneous_segment": "NAD+SU+852274267",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:4554.07",
+        "erroneous_segment": "MOA+79:4554.07",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:3703.96",
+        "erroneous_segment": "MOA+79:3703.96",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+230440637",
+        "erroneous_segment": "NAD+SU+230440637",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+33",
+        "erroneous_segment": "LIN33",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20250220",
+        "erroneous_segment": "DTM+137:20250220",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+696265981",
+        "erroneous_segment": "NAD+SU+696265981",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+758232205",
+        "erroneous_segment": "NAD+BY+758232205",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+382872963",
+        "erroneous_segment": "NAD+SU+382872963",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+967129758",
+        "erroneous_segment": "NADBY967129758",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+319829184",
+        "erroneous_segment": "NADBY319829184",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+317875000",
+        "erroneous_segment": "NAD+SU+317875000",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+339571881",
+        "erroneous_segment": "NAD+BY+339571881",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:2864.85",
+        "erroneous_segment": "MOA+79:2864.85",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8922.86",
+        "erroneous_segment": "TAX+7+25:MOA+124:8922.86",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2293.19",
+        "erroneous_segment": "TAX+7+25:MOA+124:2293.19",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20240420",
+        "erroneous_segment": "DTM+137:20240420",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+929764450",
+        "erroneous_segment": "NAD+SU+929764450",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:9123.25",
+        "erroneous_segment": "MOA+79:9123.25",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+81",
+        "erroneous_segment": "LIN+81",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+470568",
+        "erroneous_segment": "BGM470568",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+132440685",
+        "erroneous_segment": "NAD+BY+13244068",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+918471238",
+        "erroneous_segment": "NAD+SU+918471238",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+22",
+        "erroneous_segment": "LIN+22",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+506089",
+        "erroneous_segment": "BGM+506089",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+293025",
+        "erroneous_segment": "BGM+293025",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:2334.80",
+        "erroneous_segment": "MOA+79:2334.80",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20211001",
+        "erroneous_segment": "DTM+137:2021100",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:8567.17",
+        "erroneous_segment": "MOA+79:8567.17",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+367358836",
+        "erroneous_segment": "NAD+BY+367358836",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:226.16",
+        "erroneous_segment": "TAX+7+25:MOA+124:226.16",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:8695.68",
+        "erroneous_segment": "MOA+79:8695.68",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+432668",
+        "erroneous_segment": "BGM+432668",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+39",
+        "erroneous_segment": "LIN+39",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20240409",
+        "erroneous_segment": "DTM137:20240409",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+36",
+        "erroneous_segment": "LIN+36",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+34",
+        "erroneous_segment": "LIN+34",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+101101",
+        "erroneous_segment": "BGM+101101",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+131859846",
+        "erroneous_segment": "NAD+SU+13185984",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+227679694",
+        "erroneous_segment": "NAD+SU+227679694",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+10",
+        "erroneous_segment": "LIN+10",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:7625.33",
+        "erroneous_segment": "MOA+79:7625.33",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+524151305",
+        "erroneous_segment": "NAD+SU+524151305",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+86",
+        "erroneous_segment": "LIN+86",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+359001647",
+        "erroneous_segment": "NAD+SU+359001647",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+83",
+        "erroneous_segment": "LIN+83",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+306300038",
+        "erroneous_segment": "NAD+BY+306300038",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3299.80",
+        "erroneous_segment": "TAX+7+25:MOA+124:3299.80",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+753283",
+        "erroneous_segment": "BGM+753283",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+84",
+        "erroneous_segment": "UNA+LIN+84",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20211212",
+        "erroneous_segment": "DTM+137:2021121",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+37",
+        "erroneous_segment": "LIN+37",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20220416",
+        "erroneous_segment": "DTM+137:20220416",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20210517",
+        "erroneous_segment": "DTM+137:2021051",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20200209",
+        "erroneous_segment": "DTM+137:20200209",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+958152026",
+        "erroneous_segment": "NAD+BY+958152026",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+586463",
+        "erroneous_segment": "BGM+586463",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+608181432",
+        "erroneous_segment": "NAD+SU+608181432",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+329047",
+        "erroneous_segment": "BGM+329047",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:5739.46",
+        "erroneous_segment": "MOA+79:5739.4",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+216408",
+        "erroneous_segment": "BGM+216408",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+769392219",
+        "erroneous_segment": "NAD+BY+769392219",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+130092211",
+        "erroneous_segment": "NAD+SU+13009221",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:3100.92",
+        "erroneous_segment": "MOA+79:3100.92",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:1128.87",
+        "erroneous_segment": "ZZZ+MOA+79:1128.87",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+857008",
+        "erroneous_segment": "BGM+857008",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+813273510",
+        "erroneous_segment": "NAD+SU+813273510",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:2128.44",
+        "erroneous_segment": "MOA+79:2128.44",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:4808.99",
+        "erroneous_segment": "MOA+79:4808.99",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:6120.82",
+        "erroneous_segment": "MOA+79:6120.82",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+583043380",
+        "erroneous_segment": "NADSU583043380",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+779245816",
+        "erroneous_segment": "NAD+SU+779245816",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20220823",
+        "erroneous_segment": "ZZZ+DTM+137:20220823",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+489534",
+        "erroneous_segment": "BGM+489534",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+78",
+        "erroneous_segment": "LIN+7",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20220801",
+        "erroneous_segment": "DTM+137:20220801",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:278.95",
+        "erroneous_segment": "MOA+79:278.95",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+39",
+        "erroneous_segment": "LIN+39",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+28",
+        "erroneous_segment": "ZZZ+LIN+28",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:2981.28",
+        "erroneous_segment": "ZZZ+MOA+79:2981.28",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+735885741",
+        "erroneous_segment": "NAD+SU+735885741",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20221215",
+        "erroneous_segment": "DTM+137:20221215",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6389.70",
+        "erroneous_segment": "TAX+7+25:MOA+124:6389.70",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+930140392",
+        "erroneous_segment": "NAD+BY+930140392",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:4304.39",
+        "erroneous_segment": "MOA+79:4304.39",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+935799423",
+        "erroneous_segment": "NAD+SU+935799423",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+816758",
+        "erroneous_segment": "UNA+BGM+816758",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20200209",
+        "erroneous_segment": "DTM+137:20200209",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6733.22",
+        "erroneous_segment": "TAX+7+25:MOA+124:6733.2",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4919.34",
+        "erroneous_segment": "TAX+7+25:MOA+124:4919.3",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+96",
+        "erroneous_segment": "ZZZ+LIN+96",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20200117",
+        "erroneous_segment": "DTM+137:20200117",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+800186",
+        "erroneous_segment": "BGM800186",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+58",
+        "erroneous_segment": "LIN+58",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20231018",
+        "erroneous_segment": "DTM+137:2023101",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20221002",
+        "erroneous_segment": "DTM+137:20221002",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2280.35",
+        "erroneous_segment": "TAX+7+25:MOA+124:2280.35",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+956279163",
+        "erroneous_segment": "NAD+SU+956279163",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+581642",
+        "erroneous_segment": "BGM+581642",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+27",
+        "erroneous_segment": "LIN+27",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20220118",
+        "erroneous_segment": "DTM+137:20220118",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7015.77",
+        "erroneous_segment": "TAX+7+25:MOA+124:7015.77",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20230719",
+        "erroneous_segment": "DTM+137:20230719",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+420527",
+        "erroneous_segment": "BGM420527",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+618531",
+        "erroneous_segment": "BGM618531",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+622075",
+        "erroneous_segment": "BGM+622075",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+292118",
+        "erroneous_segment": "UNA+BGM+292118",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+206825",
+        "erroneous_segment": "BGM+206825",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:6208.13",
+        "erroneous_segment": "MOA+79:6208.1",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+599704866",
+        "erroneous_segment": "NAD+BY+599704866",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+957860265",
+        "erroneous_segment": "NAD+BY+957860265",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4315.89",
+        "erroneous_segment": "TAX+7+25:MOA+124:4315.89",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+50",
+        "erroneous_segment": "LIN+50",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+119548685",
+        "erroneous_segment": "NAD+SU+119548685",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+979742",
+        "erroneous_segment": "BGM+979742",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20240812",
+        "erroneous_segment": "DTM+137:20240812",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:9587.99",
+        "erroneous_segment": "TAX+7+25:MOA+124:9587.99",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+775187704",
+        "erroneous_segment": "NAD+SU+775187704",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+752874776",
+        "erroneous_segment": "NAD+SU+752874776",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+393185",
+        "erroneous_segment": "BGM393185",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4355.73",
+        "erroneous_segment": "TAX+7+25:MOA+124:4355.7",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20201118",
+        "erroneous_segment": "DTM+137:2020111",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+77",
+        "erroneous_segment": "LIN+77",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:4392.80",
+        "erroneous_segment": "MOA+79:4392.80",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20211118",
+        "erroneous_segment": "ZZZ+DTM+137:20211118",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+246848612",
+        "erroneous_segment": "NAD+BY+246848612",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+886943",
+        "erroneous_segment": "BGM+886943",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+281490",
+        "erroneous_segment": "BGM+281490",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+307917",
+        "erroneous_segment": "BGM+307917",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+650108",
+        "erroneous_segment": "BGM+650108",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+195725498",
+        "erroneous_segment": "NAD+SU+195725498",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+777243919",
+        "erroneous_segment": "NAD+BY+777243919",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+246102",
+        "erroneous_segment": "BGM+246102",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2003.37",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:2003.37",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+110858571",
+        "erroneous_segment": "NAD+BY+110858571",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:7154.13",
+        "erroneous_segment": "MOA+79:7154.1",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+142694",
+        "erroneous_segment": "BGM+142694",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+467231",
+        "erroneous_segment": "BGM+467231",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:2065.61",
+        "erroneous_segment": "MOA+79:2065.61",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+559973",
+        "erroneous_segment": "BGM+559973",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+40",
+        "erroneous_segment": "LIN+40",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2925.94",
+        "erroneous_segment": "TAX+7+25:MOA+124:2925.94",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20210322",
+        "erroneous_segment": "DTM+137:20210322",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6458.76",
+        "erroneous_segment": "TAX+7+25:MOA+124:6458.76",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+27",
+        "erroneous_segment": "LIN+27",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+45",
+        "erroneous_segment": "LIN+45",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+626301840",
+        "erroneous_segment": "NAD+SU+62630184",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+979040",
+        "erroneous_segment": "BGM+979040",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3284.51",
+        "erroneous_segment": "TAX+7+25:MOA+124:3284.51",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:2435.04",
+        "erroneous_segment": "MOA+79:2435.04",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20251209",
+        "erroneous_segment": "DTM+137:20251209",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20251221",
+        "erroneous_segment": "DTM+137:20251221",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:1402.41",
+        "erroneous_segment": "MOA+79:1402.41",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+797079210",
+        "erroneous_segment": "UNA+NAD+BY+797079210",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+975469506",
+        "erroneous_segment": "NAD+SU+975469506",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+36",
+        "erroneous_segment": "LIN36",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5586.63",
+        "erroneous_segment": "TAX+7+25:MOA+124:5586.63",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+759295",
+        "erroneous_segment": "ZZZ+BGM+759295",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+487274",
+        "erroneous_segment": "ZZZ+BGM+487274",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+848184986",
+        "erroneous_segment": "NAD+SU+848184986",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+505373",
+        "erroneous_segment": "BGM+505373",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:2667.48",
+        "erroneous_segment": "MOA+79;2667.48",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+960716271",
+        "erroneous_segment": "NAD+SU+960716271",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20250215",
+        "erroneous_segment": "DTM+137:20250215",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+609719017",
+        "erroneous_segment": "NAD+SU+609719017",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2934.90",
+        "erroneous_segment": "TAX+7+25:MOA+124:2934.90",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20210616",
+        "erroneous_segment": "DTM137:20210616",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:5073.50",
+        "erroneous_segment": "MOA+79:5073.50",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1705.22",
+        "erroneous_segment": "TAX+7+25:MOA+124:1705.22",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+516299",
+        "erroneous_segment": "ZZZ+BGM+516299",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:3831.25",
+        "erroneous_segment": "MOA+79:3831.25",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+247625",
+        "erroneous_segment": "BGM+247625",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20230603",
+        "erroneous_segment": "DTM+137:20230603",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+508425",
+        "erroneous_segment": "BGM+508425",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+649742840",
+        "erroneous_segment": "NAD+SU+649742840",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+291426381",
+        "erroneous_segment": "NAD+BY+291426381",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+55",
+        "erroneous_segment": "LIN55",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+100",
+        "erroneous_segment": "LIN+100",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20220714",
+        "erroneous_segment": "DTM+137:20220714",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:8690.96",
+        "erroneous_segment": "MOA+79:8690.96",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:3325.03",
+        "erroneous_segment": "UNA+MOA+79:3325.03",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:1390.23",
+        "erroneous_segment": "MOA+79:1390.23",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+635012665",
+        "erroneous_segment": "NAD+BY+635012665",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+627495",
+        "erroneous_segment": "ZZZ+BGM+627495",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+12",
+        "erroneous_segment": "LIN+12",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4374.72",
+        "erroneous_segment": "TAX+7+25:MOA+124:4374.72",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:9258.83",
+        "erroneous_segment": "MOA+79:9258.83",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+291604306",
+        "erroneous_segment": "NAD+BY+291604306",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:6277.63",
+        "erroneous_segment": "MOA+79:6277.63",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+690325832",
+        "erroneous_segment": "NAD+BY+690325832",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7890.17",
+        "erroneous_segment": "TAX+7+25:MOA+124:7890.17",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+636390668",
+        "erroneous_segment": "NAD+BY+636390668",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:9770.73",
+        "erroneous_segment": "MOA+79:9770.73",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+785379484",
+        "erroneous_segment": "NAD+BY+785379484",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6479.90",
+        "erroneous_segment": "TAX+7+25:MOA+124:6479.90",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+377855",
+        "erroneous_segment": "BGM+377855",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+714758",
+        "erroneous_segment": "BGM+714758",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:5960.37",
+        "erroneous_segment": "MOA+79:5960.37",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:6245.76",
+        "erroneous_segment": "MOA+79:6245.76",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20251111",
+        "erroneous_segment": "UNA+DTM+137:20251111",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20251104",
+        "erroneous_segment": "DTM+137:20251104",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:7197.60",
+        "erroneous_segment": "MOA+79:7197.60",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+605496618",
+        "erroneous_segment": "ZZZ+NAD+BY+605496618",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+77",
+        "erroneous_segment": "LIN+77",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+286329",
+        "erroneous_segment": "BGM+286329",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+934178088",
+        "erroneous_segment": "ZZZ+NAD+BY+934178088",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:6842.29",
+        "erroneous_segment": "MOA+79:6842.29",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+843899425",
+        "erroneous_segment": "NAD+BY+843899425",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+726884307",
+        "erroneous_segment": "NAD+BY+726884307",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+90",
+        "erroneous_segment": "LIN+90",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20200327",
+        "erroneous_segment": "DTM+137;20200327",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2726.61",
+        "erroneous_segment": "TAX+7+25:MOA+124:2726.61",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20201101",
+        "erroneous_segment": "DTM+137:2020110",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:3583.78",
+        "erroneous_segment": "MOA+79:3583.78",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+36",
+        "erroneous_segment": "LIN+36",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+322581495",
+        "erroneous_segment": "NAD+SU+322581495",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+599545832",
+        "erroneous_segment": "NAD+BY+599545832",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+498655",
+        "erroneous_segment": "BGM+498655",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+67",
+        "erroneous_segment": "LIN+6",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+64",
+        "erroneous_segment": "LIN+64",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:552.01",
+        "erroneous_segment": "TAX+7+25:MOA+124:552.0",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+849273859",
+        "erroneous_segment": "NAD+SU+849273859",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20201122",
+        "erroneous_segment": "DTM+137:20201122",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+82",
+        "erroneous_segment": "LIN+82",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+758862257",
+        "erroneous_segment": "NAD+SU+758862257",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+88",
+        "erroneous_segment": "LIN+88",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+437949",
+        "erroneous_segment": "BGM+437949",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+28",
+        "erroneous_segment": "LIN+28",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2758.51",
+        "erroneous_segment": "UNA+TAX+7+25:MOA+124:2758.51",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+620868",
+        "erroneous_segment": "BGM+620868",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+130831",
+        "erroneous_segment": "BGM+130831",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+301436219",
+        "erroneous_segment": "NAD+BY+301436219",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20220416",
+        "erroneous_segment": "DTM137:20220416",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+595322173",
+        "erroneous_segment": "NAD+BY+595322173",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+41",
+        "erroneous_segment": "LIN+4",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+537148884",
+        "erroneous_segment": "NAD+BY+537148884",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20230107",
+        "erroneous_segment": "DTM+137:20230107",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20240821",
+        "erroneous_segment": "DTM137:20240821",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+275007966",
+        "erroneous_segment": "NAD+SU+275007966",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+247660328",
+        "erroneous_segment": "NAD+BY+247660328",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+831110749",
+        "erroneous_segment": "NAD+BY+831110749",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+791224104",
+        "erroneous_segment": "NAD+SU+79122410",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+12",
+        "erroneous_segment": "LIN+1",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:4370.58",
+        "erroneous_segment": "MOA+79:4370.5",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2188.64",
+        "erroneous_segment": "TAX+7+25:MOA+124:2188.64",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5343.11",
+        "erroneous_segment": "TAX+7+25;MOA+124;5343.11",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+259513",
+        "erroneous_segment": "BGM+259513",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+905304162",
+        "erroneous_segment": "NAD+SU+905304162",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+298042162",
+        "erroneous_segment": "NADSU298042162",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+963050",
+        "erroneous_segment": "BGM+963050",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8119.29",
+        "erroneous_segment": "TAX+7+25:MOA+124:8119.29",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+538492393",
+        "erroneous_segment": "NAD+BY+538492393",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+323609090",
+        "erroneous_segment": "NAD+SU+323609090",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+373501757",
+        "erroneous_segment": "NAD+SU+373501757",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:2814.43",
+        "erroneous_segment": "MOA+79;2814.43",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:6708.59",
+        "erroneous_segment": "MOA+79:6708.59",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20231013",
+        "erroneous_segment": "DTM+137:20231013",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:7109.52",
+        "erroneous_segment": "MOA+79:7109.5",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:8951.10",
+        "erroneous_segment": "MOA+79:8951.10",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:3339.20",
+        "erroneous_segment": "MOA+79:3339.20",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+986031389",
+        "erroneous_segment": "NAD+BY+986031389",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:6621.50",
+        "erroneous_segment": "MOA+79;6621.50",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:1349.77",
+        "erroneous_segment": "MOA+79;1349.77",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+597212498",
+        "erroneous_segment": "NADSU597212498",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:8505.73",
+        "erroneous_segment": "ZZZ+MOA+79:8505.73",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+567314547",
+        "erroneous_segment": "NAD+BY+567314547",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+441222997",
+        "erroneous_segment": "NAD+SU+441222997",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20230927",
+        "erroneous_segment": "DTM+137:20230927",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:324.84",
+        "erroneous_segment": "TAX+7+25:MOA+124:324.84",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+74",
+        "erroneous_segment": "LIN+74",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+63",
+        "erroneous_segment": "LIN+63",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+773699163",
+        "erroneous_segment": "NAD+BY+773699163",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:1750.68",
+        "erroneous_segment": "MOA+79:1750.68",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+800764239",
+        "erroneous_segment": "NAD+SU+800764239",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+365476354",
+        "erroneous_segment": "NAD+BY+365476354",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+485206313",
+        "erroneous_segment": "NAD+SU+485206313",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1182.02",
+        "erroneous_segment": "TAX+7+25:MOA+124:1182.02",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7687.02",
+        "erroneous_segment": "TAX+7+25:MOA+124:7687.02",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20210128",
+        "erroneous_segment": "ZZZ+DTM+137:20210128",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+512716180",
+        "erroneous_segment": "NADSU512716180",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+655684628",
+        "erroneous_segment": "NAD+BY+655684628",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1108.14",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:1108.14",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+925050244",
+        "erroneous_segment": "ZZZ+NAD+BY+925050244",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7370.03",
+        "erroneous_segment": "TAX+7+25:MOA+124:7370.0",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:9805.51",
+        "erroneous_segment": "TAX+7+25;MOA+124;9805.51",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:4358.91",
+        "erroneous_segment": "MOA+79:4358.91",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:6037.45",
+        "erroneous_segment": "MOA+79:6037.4",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5655.13",
+        "erroneous_segment": "TAX+7+25:MOA+124:5655.13",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+660777694",
+        "erroneous_segment": "NAD+BY+660777694",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5002.99",
+        "erroneous_segment": "TAX+7+25;MOA+124;5002.99",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3785.83",
+        "erroneous_segment": "TAX+7+25:MOA+124:3785.83",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+629160359",
+        "erroneous_segment": "NAD+BY+629160359",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+8",
+        "erroneous_segment": "LIN+8",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+65",
+        "erroneous_segment": "LIN+65",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+545541",
+        "erroneous_segment": "BGM+545541",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:9809.84",
+        "erroneous_segment": "MOA+79;9809.84",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20250321",
+        "erroneous_segment": "DTM+137:20250321",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2040.39",
+        "erroneous_segment": "TAX+7+25;MOA+124;2040.39",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5607.36",
+        "erroneous_segment": "TAX725:MOA124:5607.36",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:528.03",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:528.03",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+879563302",
+        "erroneous_segment": "NAD+BY+879563302",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+446474",
+        "erroneous_segment": "BGM+446474",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20240509",
+        "erroneous_segment": "DTM+137:20240509",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:2232.60",
+        "erroneous_segment": "MOA+79:2232.60",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20250612",
+        "erroneous_segment": "DTM+137:20250612",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+71",
+        "erroneous_segment": "LIN+71",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+455821601",
+        "erroneous_segment": "NAD+BY+455821601",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+790853042",
+        "erroneous_segment": "NAD+SU+790853042",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:4867.77",
+        "erroneous_segment": "MOA+79:4867.77",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20220825",
+        "erroneous_segment": "DTM+137:20220825",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+693849",
+        "erroneous_segment": "BGM+693849",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:5981.49",
+        "erroneous_segment": "MOA+79:5981.49",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20230804",
+        "erroneous_segment": "DTM+137:20230804",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+397182921",
+        "erroneous_segment": "NADSU397182921",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20220404",
+        "erroneous_segment": "UNA+DTM+137:20220404",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+84",
+        "erroneous_segment": "LIN+84",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20220302",
+        "erroneous_segment": "DTM+137:20220302",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+401015",
+        "erroneous_segment": "BGM+401015",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+92",
+        "erroneous_segment": "LIN+9",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:2819.95",
+        "erroneous_segment": "MOA+79;2819.95",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+261666786",
+        "erroneous_segment": "NAD+BY+261666786",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+34",
+        "erroneous_segment": "LIN+34",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+819914",
+        "erroneous_segment": "BGM+819914",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20220323",
+        "erroneous_segment": "DTM+137:20220323",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+135544127",
+        "erroneous_segment": "ZZZ+NAD+SU+135544127",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:3032.48",
+        "erroneous_segment": "MOA+79:3032.48",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:8445.69",
+        "erroneous_segment": "MOA+79:8445.69",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:955.26",
+        "erroneous_segment": "UNA+TAX+7+25:MOA+124:955.26",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+847091766",
+        "erroneous_segment": "UNA+NAD+BY+847091766",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20210728",
+        "erroneous_segment": "DTM+137:20210728",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+250523590",
+        "erroneous_segment": "NAD+SU+250523590",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+72",
+        "erroneous_segment": "LIN+72",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+961062701",
+        "erroneous_segment": "ZZZ+NAD+BY+961062701",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+415624",
+        "erroneous_segment": "BGM415624",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+6",
+        "erroneous_segment": "LIN+",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+43",
+        "erroneous_segment": "LIN43",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1633.80",
+        "erroneous_segment": "TAX+7+25:MOA+124:1633.80",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20210622",
+        "erroneous_segment": "DTM+137:20210622",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:990.87",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:990.87",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:717.93",
+        "erroneous_segment": "MOA+79:717.93",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+281906",
+        "erroneous_segment": "BGM+281906",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2042.92",
+        "erroneous_segment": "TAX+7+25:MOA+124:2042.92",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+228024999",
+        "erroneous_segment": "NAD+SU+228024999",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3138.26",
+        "erroneous_segment": "TAX+7+25:MOA+124:3138.26",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20201102",
+        "erroneous_segment": "DTM+137:20201102",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+9",
+        "erroneous_segment": "LIN+9",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4264.78",
+        "erroneous_segment": "TAX+7+25:MOA+124:4264.78",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+296613326",
+        "erroneous_segment": "NAD+SU+296613326",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+187332370",
+        "erroneous_segment": "NADBY187332370",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+124124",
+        "erroneous_segment": "BGM+124124",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20251005",
+        "erroneous_segment": "DTM+137:20251005",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:9815.24",
+        "erroneous_segment": "MOA+79:9815.24",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+69",
+        "erroneous_segment": "LIN+69",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+57",
+        "erroneous_segment": "LIN+57",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+93",
+        "erroneous_segment": "LIN+93",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+972919",
+        "erroneous_segment": "BGM+97291",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:4493.90",
+        "erroneous_segment": "MOA+79:4493.90",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20230702",
+        "erroneous_segment": "DTM+137:20230702",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+713344513",
+        "erroneous_segment": "NAD+SU+71334451",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+569743968",
+        "erroneous_segment": "NAD+BY+569743968",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5903.03",
+        "erroneous_segment": "TAX+7+25:MOA+124:5903.03",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20220525",
+        "erroneous_segment": "DTM+137:20220525",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:5469.60",
+        "erroneous_segment": "MOA+79:5469.6",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:9924.51",
+        "erroneous_segment": "MOA+79:9924.51",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:1957.21",
+        "erroneous_segment": "MOA+79:1957.21",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+258882210",
+        "erroneous_segment": "NAD+SU+25888221",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8418.02",
+        "erroneous_segment": "TAX+7+25:MOA+124:8418.02",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6682.73",
+        "erroneous_segment": "TAX+7+25:MOA+124:6682.73",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+442754222",
+        "erroneous_segment": "NADSU442754222",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7274.53",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:7274.53",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+5",
+        "erroneous_segment": "LIN+5",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+774480591",
+        "erroneous_segment": "NAD+BY+774480591",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:959.86",
+        "erroneous_segment": "MOA+79:959.86",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+947148913",
+        "erroneous_segment": "NAD+BY+947148913",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+168510525",
+        "erroneous_segment": "NAD+BY+168510525",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+499852",
+        "erroneous_segment": "BGM+499852",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8257.19",
+        "erroneous_segment": "TAX+7+25:MOA+124:8257.19",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3129.27",
+        "erroneous_segment": "TAX+7+25:MOA+124:3129.27",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+397209",
+        "erroneous_segment": "BGM+397209",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+244990",
+        "erroneous_segment": "BGM+24499",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+509906990",
+        "erroneous_segment": "NADBY509906990",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+796781884",
+        "erroneous_segment": "NAD+SU+796781884",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+875984893",
+        "erroneous_segment": "NAD+BY+875984893",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+80",
+        "erroneous_segment": "LIN+80",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5439.78",
+        "erroneous_segment": "TAX+7+25:MOA+124:5439.78",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4885.90",
+        "erroneous_segment": "TAX+7+25:MOA+124:4885.90",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:6123.20",
+        "erroneous_segment": "MOA+79:6123.20",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:3571.17",
+        "erroneous_segment": "MOA+79:3571.17",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+649483368",
+        "erroneous_segment": "NAD+SU+649483368",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5779.39",
+        "erroneous_segment": "TAX+7+25:MOA+124:5779.3",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:3323.75",
+        "erroneous_segment": "MOA+79:3323.7",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+31",
+        "erroneous_segment": "LIN+31",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+362521919",
+        "erroneous_segment": "NADBY362521919",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20230327",
+        "erroneous_segment": "DTM137:20230327",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+424724799",
+        "erroneous_segment": "NAD+SU+424724799",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+565155800",
+        "erroneous_segment": "ZZZ+NAD+BY+565155800",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+126592",
+        "erroneous_segment": "BGM+12659",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20221009",
+        "erroneous_segment": "DTM+137:20221009",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+184860",
+        "erroneous_segment": "BGM+184860",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3873.32",
+        "erroneous_segment": "TAX+7+25:MOA+124:3873.32",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:8189.15",
+        "erroneous_segment": "MOA+79:8189.15",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:4542.77",
+        "erroneous_segment": "MOA+79:4542.77",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20200725",
+        "erroneous_segment": "DTM+137:20200725",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+319770",
+        "erroneous_segment": "BGM+319770",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+261706",
+        "erroneous_segment": "BGM+261706",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1408.82",
+        "erroneous_segment": "TAX+7+25:MOA+124:1408.82",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1701.02",
+        "erroneous_segment": "TAX+7+25:MOA+124:1701.02",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+584204",
+        "erroneous_segment": "BGM+584204",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+838272",
+        "erroneous_segment": "BGM+838272",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:4041.14",
+        "erroneous_segment": "MOA+79:4041.1",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20241010",
+        "erroneous_segment": "DTM+137:20241010",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+263647169",
+        "erroneous_segment": "NAD+BY+263647169",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+790858916",
+        "erroneous_segment": "NAD+SU+790858916",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+714175",
+        "erroneous_segment": "BGM+71417",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4777.58",
+        "erroneous_segment": "TAX+7+25:MOA+124:4777.58",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:2592.85",
+        "erroneous_segment": "MOA+79;2592.85",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+465994362",
+        "erroneous_segment": "NAD+BY+465994362",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20220116",
+        "erroneous_segment": "DTM+137:20220116",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+4",
+        "erroneous_segment": "LIN+4",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+92",
+        "erroneous_segment": "LIN+92",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+7",
+        "erroneous_segment": "LIN+7",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+64",
+        "erroneous_segment": "LIN+64",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:8322.94",
+        "erroneous_segment": "MOA+79:8322.94",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+297977067",
+        "erroneous_segment": "NAD+SU+297977067",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+29",
+        "erroneous_segment": "LIN+29",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+35",
+        "erroneous_segment": "LIN35",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+453751",
+        "erroneous_segment": "BGM+453751",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+741251",
+        "erroneous_segment": "BGM+741251",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5634.70",
+        "erroneous_segment": "TAX+7+25:MOA+124:5634.70",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+396816",
+        "erroneous_segment": "BGM+396816",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1201.33",
+        "erroneous_segment": "TAX+7+25:MOA+124:1201.33",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:134.48",
+        "erroneous_segment": "TAX+7+25:MOA+124:134.48",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:6723.38",
+        "erroneous_segment": "MOA+79:6723.38",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20230313",
+        "erroneous_segment": "DTM+137:20230313",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:2872.83",
+        "erroneous_segment": "MOA+79:2872.83",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+298964258",
+        "erroneous_segment": "NAD+BY+298964258",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+76",
+        "erroneous_segment": "ZZZ+LIN+76",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5659.86",
+        "erroneous_segment": "TAX725:MOA124:5659.86",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:3588.48",
+        "erroneous_segment": "MOA+79:3588.48",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:860.31",
+        "erroneous_segment": "MOA+79:860.31",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+854184995",
+        "erroneous_segment": "NAD+BY+854184995",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:9118.68",
+        "erroneous_segment": "TAX+7+25:MOA+124:9118.68",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7002.59",
+        "erroneous_segment": "TAX+7+25:MOA+124:7002.59",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20251025",
+        "erroneous_segment": "DTM+137:20251025",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+2",
+        "erroneous_segment": "LIN+2",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+734138494",
+        "erroneous_segment": "NAD+SU+734138494",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+8",
+        "erroneous_segment": "LIN+8",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+245174873",
+        "erroneous_segment": "NAD+BY+245174873",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20231227",
+        "erroneous_segment": "DTM+137:20231227",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+654552026",
+        "erroneous_segment": "NAD+SU+654552026",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+19",
+        "erroneous_segment": "UNA+LIN+19",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6987.48",
+        "erroneous_segment": "TAX+7+25:MOA+124:6987.48",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8631.30",
+        "erroneous_segment": "TAX+7+25:MOA+124:8631.30",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20251209",
+        "erroneous_segment": "DTM+137:20251209",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+287422",
+        "erroneous_segment": "BGM+287422",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+861881842",
+        "erroneous_segment": "NAD+BY+861881842",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:1283.80",
+        "erroneous_segment": "UNA+MOA+79:1283.80",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+42",
+        "erroneous_segment": "LIN+42",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20230704",
+        "erroneous_segment": "DTM+137:20230704",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+27",
+        "erroneous_segment": "LIN+27",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+672914688",
+        "erroneous_segment": "NADBY672914688",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:1484.52",
+        "erroneous_segment": "MOA+79:1484.52",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:7479.32",
+        "erroneous_segment": "MOA79:7479.32",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:7682.65",
+        "erroneous_segment": "MOA+79:7682.65",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1064.49",
+        "erroneous_segment": "TAX+7+25:MOA+124:1064.49",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+70",
+        "erroneous_segment": "LIN+70",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:9753.94",
+        "erroneous_segment": "TAX+7+25:MOA+124:9753.94",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+876963414",
+        "erroneous_segment": "NAD+BY+876963414",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+84",
+        "erroneous_segment": "LIN+84",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20250106",
+        "erroneous_segment": "DTM+137:20250106",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+27",
+        "erroneous_segment": "LIN+2",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+412234967",
+        "erroneous_segment": "NAD+BY+412234967",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:1272.74",
+        "erroneous_segment": "MOA+79:1272.74",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+634011131",
+        "erroneous_segment": "NAD+SU+634011131",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20220919",
+        "erroneous_segment": "DTM+137:20220919",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3243.05",
+        "erroneous_segment": "TAX+7+25:MOA+124:3243.05",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+924474",
+        "erroneous_segment": "BGM+92447",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:5982.67",
+        "erroneous_segment": "MOA+79:5982.67",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+694428438",
+        "erroneous_segment": "UNA+NAD+BY+694428438",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+906632",
+        "erroneous_segment": "BGM+906632",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+862648704",
+        "erroneous_segment": "NAD+BY+86264870",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5338.80",
+        "erroneous_segment": "TAX+7+25:MOA+124:5338.80",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+988952283",
+        "erroneous_segment": "NAD+BY+98895228",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+739537417",
+        "erroneous_segment": "NAD+SU+739537417",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:2425.11",
+        "erroneous_segment": "MOA+79:2425.11",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+683112959",
+        "erroneous_segment": "NAD+BY+683112959",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+666179",
+        "erroneous_segment": "ZZZ+BGM+666179",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20200225",
+        "erroneous_segment": "DTM+137;20200225",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+717970",
+        "erroneous_segment": "BGM+71797",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:889.86",
+        "erroneous_segment": "TAX+7+25:MOA+124:889.86",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+832069835",
+        "erroneous_segment": "NAD+SU+832069835",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+494525",
+        "erroneous_segment": "BGM+494525",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+301166871",
+        "erroneous_segment": "NAD+SU+301166871",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20250128",
+        "erroneous_segment": "DTM+137:20250128",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+7",
+        "erroneous_segment": "LIN+7",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2266.04",
+        "erroneous_segment": "TAX+7+25:MOA+124:2266.04",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20200422",
+        "erroneous_segment": "DTM+137:20200422",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+86",
+        "erroneous_segment": "ZZZ+LIN+86",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+666387699",
+        "erroneous_segment": "NAD+SU+666387699",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+865270",
+        "erroneous_segment": "ZZZ+BGM+865270",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+500696",
+        "erroneous_segment": "BGM+500696",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20210507",
+        "erroneous_segment": "DTM+137:20210507",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20220722",
+        "erroneous_segment": "DTM+137:20220722",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4200.51",
+        "erroneous_segment": "TAX+7+25:MOA+124:4200.51",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7699.71",
+        "erroneous_segment": "TAX+7+25:MOA+124:7699.71",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:3907.88",
+        "erroneous_segment": "MOA+79:3907.88",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+249979819",
+        "erroneous_segment": "NAD+SU+249979819",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:1811.28",
+        "erroneous_segment": "MOA+79:1811.28",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8804.31",
+        "erroneous_segment": "TAX+7+25:MOA+124:8804.31",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+68",
+        "erroneous_segment": "LIN+6",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+68",
+        "erroneous_segment": "LIN+68",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+389848213",
+        "erroneous_segment": "NAD+SU+389848213",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:9027.51",
+        "erroneous_segment": "MOA+79:9027.51",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+85",
+        "erroneous_segment": "LIN+85",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+100",
+        "erroneous_segment": "LIN+100",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20210202",
+        "erroneous_segment": "DTM+137:2021020",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+513068082",
+        "erroneous_segment": "NAD+BY+513068082",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+53",
+        "erroneous_segment": "LIN+53",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+331631429",
+        "erroneous_segment": "UNA+NAD+BY+331631429",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+823086825",
+        "erroneous_segment": "NAD+SU+823086825",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+937638190",
+        "erroneous_segment": "NAD+SU+93763819",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:1658.37",
+        "erroneous_segment": "MOA+79:1658.37",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4020.62",
+        "erroneous_segment": "TAX+7+25:MOA+124:4020.62",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+264769",
+        "erroneous_segment": "BGM+264769",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+464938538",
+        "erroneous_segment": "NAD+BY+464938538",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+766762225",
+        "erroneous_segment": "NAD+BY+766762225",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "LIN+66",
+        "erroneous_segment": "LIN+66",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+631280554",
+        "erroneous_segment": "NAD+SU+631280554",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+384245082",
+        "erroneous_segment": "NAD+SU+384245082",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+872680",
+        "erroneous_segment": "BGM+872680",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20221018",
+        "erroneous_segment": "DTM+137:20221018",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+241549107",
+        "erroneous_segment": "NAD+SU+241549107",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7399.29",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:7399.29",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+820969831",
+        "erroneous_segment": "NAD+BY+820969831",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+780399197",
+        "erroneous_segment": "NADSU780399197",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20250307",
+        "erroneous_segment": "DTM+137:20250307",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+623268745",
+        "erroneous_segment": "NADBY623268745",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5010.35",
+        "erroneous_segment": "TAX725:MOA124:5010.35",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20250812",
+        "erroneous_segment": "DTM+137:20250812",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20230309",
+        "erroneous_segment": "DTM+137:20230309",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+664750556",
+        "erroneous_segment": "NAD+BY+664750556",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20231016",
+        "erroneous_segment": "DTM+137:20231016",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+956221",
+        "erroneous_segment": "BGM+956221",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+133993895",
+        "erroneous_segment": "NAD+BY+133993895",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "DTM+137:20251014",
+        "erroneous_segment": "DTM+137:2025101",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+31",
+        "erroneous_segment": "LIN+31",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+3",
+        "erroneous_segment": "LIN+",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+676882",
+        "erroneous_segment": "BGM+676882",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+897151",
+        "erroneous_segment": "BGM+897151",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+423953541",
+        "erroneous_segment": "NAD+SU+42395354",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+239639507",
+        "erroneous_segment": "NAD+BY+23963950",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4868.28",
+        "erroneous_segment": "TAX+7+25:MOA+124:4868.28",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:7661.79",
+        "erroneous_segment": "MOA79:7661.79",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:1815.88",
+        "erroneous_segment": "MOA+79:1815.88",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+148983532",
+        "erroneous_segment": "NAD+SU+148983532",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+644783949",
+        "erroneous_segment": "NAD+BY+644783949",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+376486186",
+        "erroneous_segment": "NAD+SU+376486186",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:6701.58",
+        "erroneous_segment": "MOA+79;6701.58",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+486688741",
+        "erroneous_segment": "NAD+SU+486688741",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:7671.28",
+        "erroneous_segment": "MOA+79:7671.28",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+172410215",
+        "erroneous_segment": "NAD+SU+172410215",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+112852708",
+        "erroneous_segment": "NAD+BY+112852708",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4105.69",
+        "erroneous_segment": "TAX+7+25:MOA+124:4105.69",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20230814",
+        "erroneous_segment": "DTM+137:20230814",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+16",
+        "erroneous_segment": "LIN+16",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+23",
+        "erroneous_segment": "LIN+23",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5169.54",
+        "erroneous_segment": "TAX+7+25:MOA+124:5169.54",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6109.07",
+        "erroneous_segment": "TAX+7+25:MOA+124:6109.07",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+35",
+        "erroneous_segment": "LIN+35",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:7331.83",
+        "erroneous_segment": "MOA+79:7331.83",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20250728",
+        "erroneous_segment": "UNA+DTM+137:20250728",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:8186.17",
+        "erroneous_segment": "MOA+79:8186.1",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:8843.35",
+        "erroneous_segment": "MOA+79:8843.35",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20240105",
+        "erroneous_segment": "DTM+137:20240105",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+497431",
+        "erroneous_segment": "BGM497431",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20240209",
+        "erroneous_segment": "DTM+137:20240209",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+795843149",
+        "erroneous_segment": "NAD+BY+79584314",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:5848.18",
+        "erroneous_segment": "TAX+7+25:MOA+124:5848.18",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8287.94",
+        "erroneous_segment": "TAX+7+25:MOA+124:8287.94",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+490147",
+        "erroneous_segment": "BGM+49014",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+980560",
+        "erroneous_segment": "BGM+980560",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20231009",
+        "erroneous_segment": "DTM+137:20231009",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20210815",
+        "erroneous_segment": "DTM+137;20210815",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+987742880",
+        "erroneous_segment": "NAD+BY+987742880",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+389031",
+        "erroneous_segment": "BGM+38903",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3850.33",
+        "erroneous_segment": "TAX+7+25:MOA+124:3850.33",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+SU+951802453",
+        "erroneous_segment": "NAD+SU+951802453",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+205119",
+        "erroneous_segment": "UNA+BGM+205119",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+40",
+        "erroneous_segment": "ZZZ+LIN+40",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20200720",
+        "erroneous_segment": "DTM+137:20200720",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+BY+930462922",
+        "erroneous_segment": "NAD+BY+93046292",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:6174.58",
+        "erroneous_segment": "MOA+79;6174.58",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20231225",
+        "erroneous_segment": "DTM+137:20231225",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+66",
+        "erroneous_segment": "LIN+66",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20210827",
+        "erroneous_segment": "DTM+137:20210827",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+24",
+        "erroneous_segment": "UNA+LIN+24",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+224652",
+        "erroneous_segment": "ZZZ+BGM+224652",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4648.42",
+        "erroneous_segment": "TAX+7+25:MOA+124:4648.42",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:9721.00",
+        "erroneous_segment": "TAX+7+25:MOA+124:9721.00",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20250325",
+        "erroneous_segment": "DTM+137:2025032",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20231020",
+        "erroneous_segment": "DTM+137:20231020",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:300.53",
+        "erroneous_segment": "TAX+7+25:MOA+124:300.53",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+452264",
+        "erroneous_segment": "BGM+452264",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20240628",
+        "erroneous_segment": "DTM+137:20240628",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+46",
+        "erroneous_segment": "LIN+46",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+13",
+        "erroneous_segment": "LIN+13",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:3836.65",
+        "erroneous_segment": "MOA+79:3836.65",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4039.36",
+        "erroneous_segment": "TAX+7+25;MOA+124;4039.36",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+81",
+        "erroneous_segment": "LIN+8",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+362536",
+        "erroneous_segment": "BGM+362536",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+39",
+        "erroneous_segment": "LIN+3",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20210407",
+        "erroneous_segment": "DTM+137:20210407",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+113104",
+        "erroneous_segment": "BGM+113104",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20230523",
+        "erroneous_segment": "DTM+137:20230523",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+192834",
+        "erroneous_segment": "ZZZ+BGM+192834",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20250710",
+        "erroneous_segment": "DTM+137:20250710",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2449.78",
+        "erroneous_segment": "TAX+7+25:MOA+124:2449.78",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+67",
+        "erroneous_segment": "LIN+67",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6132.31",
+        "erroneous_segment": "UNA+TAX+7+25:MOA+124:6132.31",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+170323450",
+        "erroneous_segment": "NAD+BY+170323450",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+225591",
+        "erroneous_segment": "BGM+225591",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7186.02",
+        "erroneous_segment": "TAX+7+25:MOA+124:7186.02",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+352457",
+        "erroneous_segment": "BGM352457",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+746924879",
+        "erroneous_segment": "NAD+SU+74692487",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+465460848",
+        "erroneous_segment": "NAD+SU+465460848",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+938355",
+        "erroneous_segment": "BGM938355",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3820.09",
+        "erroneous_segment": "TAX+7+25:MOA+124:3820.09",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+96",
+        "erroneous_segment": "LIN+96",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:8681.78",
+        "erroneous_segment": "MOA+79:8681.78",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:2142.61",
+        "erroneous_segment": "MOA+79:2142.61",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+611414284",
+        "erroneous_segment": "NAD+SU+611414284",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+241988",
+        "erroneous_segment": "BGM+241988",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20210327",
+        "erroneous_segment": "DTM+137:20210327",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:3468.30",
+        "erroneous_segment": "MOA+79:3468.30",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+166589908",
+        "erroneous_segment": "UNA+NAD+BY+166589908",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:6696.42",
+        "erroneous_segment": "MOA+79:6696.42",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+379349379",
+        "erroneous_segment": "NAD+SU+379349379",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+673080046",
+        "erroneous_segment": "NAD+SU+673080046",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20210320",
+        "erroneous_segment": "DTM+137:20210320",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:5036.80",
+        "erroneous_segment": "MOA+79:5036.80",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+318492",
+        "erroneous_segment": "BGM+318492",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+9",
+        "erroneous_segment": "LIN+9",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:506.02",
+        "erroneous_segment": "TAX+7+25:MOA+124:506.02",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+969176",
+        "erroneous_segment": "BGM+969176",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+759157",
+        "erroneous_segment": "UNA+BGM+759157",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+BY+623602440",
+        "erroneous_segment": "NAD+BY+623602440",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+967998",
+        "erroneous_segment": "BGM+967998",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:3214.75",
+        "erroneous_segment": "MOA+79;3214.75",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+133214",
+        "erroneous_segment": "BGM+133214",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+532550680",
+        "erroneous_segment": "NAD+SU+532550680",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:6847.36",
+        "erroneous_segment": "MOA+79:6847.36",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "DTM+137:20211122",
+        "erroneous_segment": "DTM+137:20211122",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20230527",
+        "erroneous_segment": "DTM+137:20230527",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+3",
+        "erroneous_segment": "LIN+3",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20200206",
+        "erroneous_segment": "DTM137:20200206",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+856705923",
+        "erroneous_segment": "NADSU856705923",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "LIN+32",
+        "erroneous_segment": "LIN32",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+32",
+        "erroneous_segment": "LIN+32",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:9508.40",
+        "erroneous_segment": "MOA+79:9508.40",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+198531258",
+        "erroneous_segment": "NAD+SU+19853125",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:7091.91",
+        "erroneous_segment": "MOA+79;7091.91",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+612128394",
+        "erroneous_segment": "NAD+BY+612128394",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "MOA+79:538.02",
+        "erroneous_segment": "MOA+79:538.02",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+649467887",
+        "erroneous_segment": "NAD+BY+649467887",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+617339618",
+        "erroneous_segment": "NADBY617339618",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+611796631",
+        "erroneous_segment": "NAD+BY+611796631",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3342.46",
+        "erroneous_segment": "TAX+7+25:MOA+124:3342.46",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:3781.10",
+        "erroneous_segment": "TAX+7+25:MOA+124:3781.10",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "NAD+BY+858377946",
+        "erroneous_segment": "NAD+BY+858377946",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+282070485",
+        "erroneous_segment": "NAD+BY+282070485",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6410.85",
+        "erroneous_segment": "TAX+7+25:MOA+124:6410.8",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:8075.49",
+        "erroneous_segment": "TAX+7+25:MOA+124:8075.49",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+73",
+        "erroneous_segment": "ZZZ+LIN+73",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:9239.20",
+        "erroneous_segment": "TAX+7+25:MOA+124:9239.20",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+544197",
+        "erroneous_segment": "BGM+544197",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+317804449",
+        "erroneous_segment": "NADSU317804449",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+432373",
+        "erroneous_segment": "BGM+43237",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+982061",
+        "erroneous_segment": "BGM+982061",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+94",
+        "erroneous_segment": "UNA+LIN+94",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+SU+593062257",
+        "erroneous_segment": "NAD+SU+593062257",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "DTM+137:20201204",
+        "erroneous_segment": "DTM+137:20201204",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4914.90",
+        "erroneous_segment": "TAX+7+25:MOA+124:4914.90",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4911.56",
+        "erroneous_segment": "TAX+7+25:MOA+124:4911.56",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+161520",
+        "erroneous_segment": "UNA+BGM+161520",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+51",
+        "erroneous_segment": "LIN+51",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+18",
+        "erroneous_segment": "LIN+18",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:2874.71",
+        "erroneous_segment": "TAX+7+25:MOA+124:2874.71",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:3418.11",
+        "erroneous_segment": "MOA+79:3418.11",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4167.41",
+        "erroneous_segment": "TAX+7+25:MOA+124:4167.41",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+397891",
+        "erroneous_segment": "BGM+397891",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+17",
+        "erroneous_segment": "LIN+17",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4037.70",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:4037.70",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:7191.35",
+        "erroneous_segment": "MOA+79:7191.35",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+BY+332559391",
+        "erroneous_segment": "UNA+NAD+BY+332559391",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "BGM+399950",
+        "erroneous_segment": "BGM399950",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:9552.59",
+        "erroneous_segment": "MOA+79:9552.59",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "MOA+79:102.36",
+        "erroneous_segment": "MOA+79:102.36",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+966560",
+        "erroneous_segment": "BGM+966560",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:156.87",
+        "erroneous_segment": "TAX+7+25;MOA+124;156.87",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+207210",
+        "erroneous_segment": "BGM+207210",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20231009",
+        "erroneous_segment": "DTM+137;20231009",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+282905",
+        "erroneous_segment": "BGM+282905",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "BGM+576971",
+        "erroneous_segment": "BGM+57697",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+4",
+        "erroneous_segment": "LIN+4",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20200428",
+        "erroneous_segment": "DTM+137:20200428",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "DTM+137:20200316",
+        "erroneous_segment": "DTM+137:2020031",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "BGM+384898",
+        "erroneous_segment": "BGM+384898",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+33",
+        "erroneous_segment": "LIN+33",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20210910",
+        "erroneous_segment": "DTM+137:20210910",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "MOA+79:6586.72",
+        "erroneous_segment": "MOA79:6586.72",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+31",
+        "erroneous_segment": "LIN+31",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "NAD+BY+244125659",
+        "erroneous_segment": "NAD+BY+244125659",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+610266668",
+        "erroneous_segment": "NAD+SU+610266668",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+SU+939246562",
+        "erroneous_segment": "NADSU939246562",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+678894",
+        "erroneous_segment": "BGM+67889",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+84",
+        "erroneous_segment": "LIN+84",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "DTM+137:20210410",
+        "erroneous_segment": "DTM+137:20210410",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "NAD+SU+822256791",
+        "erroneous_segment": "NAD+SU+822256791",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "BGM+632864",
+        "erroneous_segment": "BGM+632864",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "LIN+99",
+        "erroneous_segment": "LIN+99",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:9853.52",
+        "erroneous_segment": "TAX+7+25:MOA+124:9853.52",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6644.73",
+        "erroneous_segment": "TAX+7+25:MOA+124:6644.73",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+78",
+        "erroneous_segment": "LIN+78",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:3076.79",
+        "erroneous_segment": "MOA79:3076.79",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:7884.45",
+        "erroneous_segment": "TAX+7+25:MOA+124:7884.4",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "BGM+954260",
+        "erroneous_segment": "BGM+954260",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:2572.79",
+        "erroneous_segment": "MOA+79:2572.79",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+90",
+        "erroneous_segment": "LIN+90",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+32",
+        "erroneous_segment": "ZZZ+LIN+32",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+820089",
+        "erroneous_segment": "BGM820089",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "MOA+79:9979.83",
+        "erroneous_segment": "MOA+79:9979.83",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:4191.88",
+        "erroneous_segment": "TAX+7+25:MOA+124:4191.88",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "LIN+69",
+        "erroneous_segment": "LIN+69",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "BGM+674631",
+        "erroneous_segment": "BGM+674631",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "NAD+SU+173107385",
+        "erroneous_segment": "NAD+SU+173107385",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+392857547",
+        "erroneous_segment": "NAD+BY+392857547",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+197034193",
+        "erroneous_segment": "NAD+SU+19703419",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:3400.47",
+        "erroneous_segment": "MOA+79:3400.47",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "LIN+21",
+        "erroneous_segment": "LIN+21",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:1669.17",
+        "erroneous_segment": "TAX+7+25:MOA+124:1669.17",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:6131.16",
+        "erroneous_segment": "ZZZ+TAX+7+25:MOA+124:6131.16",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "DTM+137:20240806",
+        "erroneous_segment": "DTM+137:20240806",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:805.20",
+        "erroneous_segment": "TAX+7+25:MOA+124:805.20",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    },
+    {
+        "original_segment": "MOA+79:6418.12",
+        "erroneous_segment": "MOA+79:6418.12",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "NAD+SU+482213704",
+        "erroneous_segment": "NAD+SU+482213704",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "NAD+BY+893455695",
+        "erroneous_segment": "NAD+BY+893455695",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+BY+317870791",
+        "erroneous_segment": "NAD+BY+317870791",
+        "xml_element": "<CODE_CLIENT_CHEZ_FRN>",
+        "label": 2
+    },
+    {
+        "original_segment": "NAD+SU+705211310",
+        "erroneous_segment": "NAD+SU+705211310",
+        "xml_element": "<CODE_FOURNISSEUR>",
+        "label": 3
+    },
+    {
+        "original_segment": "MOA+79:9669.40",
+        "erroneous_segment": "MOA79:9669.40",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "BGM+466758",
+        "erroneous_segment": "BGM+466758",
+        "xml_element": "<NO_DOCUMENT>",
+        "label": 0
+    },
+    {
+        "original_segment": "DTM+137:20250810",
+        "erroneous_segment": "DTM+137:20250810",
+        "xml_element": "<DATE_DOCUMENT>",
+        "label": 1
+    },
+    {
+        "original_segment": "LIN+96",
+        "erroneous_segment": "LIN+96",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "LIN+20",
+        "erroneous_segment": "LIN+20",
+        "xml_element": "<NUM_LIG>",
+        "label": 6
+    },
+    {
+        "original_segment": "MOA+79:8463.88",
+        "erroneous_segment": "MOA+79:8463.8",
+        "xml_element": "<MONTANT_HT>",
+        "label": 4
+    },
+    {
+        "original_segment": "TAX+7+25:MOA+124:9603.29",
+        "erroneous_segment": "TAX+7+25:MOA+124:9603.2",
+        "xml_element": "<TAUX_TVA>, <MONTANT_TVA>",
+        "label": 5
+    }
+]

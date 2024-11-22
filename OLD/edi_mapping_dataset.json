@@ -1,0 +1,31 @@
+{
+    "data": [
+      {
+        "incorrect_mapping": [
+          {"segment": "BGM", "element": "Numéro de document", "xml": "<CODE_CLIENT_CHEZ_FRN>"},
+          {"segment": "DTM+137", "element": "Code client", "xml": "<DATE_DOCUMENT>"},
+          {"segment": "NAD+BY", "element": "Numéro de document", "xml": "<NO_DOCUMENT>"},
+          {"segment": "NAD+SU", "element": "Code fournisseur", "xml": "<CODE_FOURNISSEUR>"},
+          {"segment": "MOA+79", "element": "Montant HT", "xml": "<MONTANT_HT>"},
+          {"segment": "TAX+7 et MOA+124", "element": "TVA (25%)", "xml": "<TAUX_TVA>, <MONTANT_TVA>"},
+          {"segment": "LIN", "element": "Numéro de ligne", "xml": "<NUM_LIG>"},
+          {"segment": "LIN", "element": "Référence article", "xml": "<REF_NART>"},
+          {"segment": "QTY+47", "element": "Quantité", "xml": "<QUANTITE_FACTUREE>"},
+          {"segment": "PRI+AAA", "element": "Montant HT", "xml": "<PRIX_NET_PAR_UNITE>"}
+        ],
+        "correct_mapping": [
+          {"segment": "BGM", "element": "Numéro de document", "xml": "<NO_DOCUMENT>"},
+          {"segment": "DTM+137", "element": "Date de document", "xml": "<DATE_DOCUMENT>"},
+          {"segment": "NAD+BY", "element": "Code client", "xml": "<CODE_CLIENT_CHEZ_FRN>"},
+          {"segment": "NAD+SU", "element": "Code fournisseur", "xml": "<CODE_FOURNISSEUR>"},
+          {"segment": "MOA+79", "element": "Montant HT", "xml": "<MONTANT_HT>"},
+          {"segment": "TAX+7 et MOA+124", "element": "TVA (25%)", "xml": "<TAUX_TVA>, <MONTANT_TVA>"},
+          {"segment": "LIN", "element": "Numéro de ligne", "xml": "<NUM_LIG>"},
+          {"segment": "LIN", "element": "Référence article", "xml": "<REF_NART>"},
+          {"segment": "QTY+47", "element": "Quantité", "xml": "<QUANTITE_FACTUREE>"},
+          {"segment": "PRI+AAA", "element": "Prix unitaire", "xml": "<PRIX_NET_PAR_UNITE>"}
+        ]
+      }
+    ]
+  }
+  

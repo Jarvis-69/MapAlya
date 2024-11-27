@@ -7,7 +7,80 @@
   "is_hyper_param_search": false,
   "is_local_process_zero": true,
   "is_world_process_zero": true,
-  "log_history": [],
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "eval_loss": 0.41629424691200256,
+      "eval_runtime": 0.3403,
+      "eval_samples_per_second": 2.939,
+      "eval_steps_per_second": 2.939,
+      "step": 1
+    },
+    {
+      "epoch": 2.0,
+      "eval_loss": 0.368049681186676,
+      "eval_runtime": 0.3373,
+      "eval_samples_per_second": 2.965,
+      "eval_steps_per_second": 2.965,
+      "step": 2
+    },
+    {
+      "epoch": 3.0,
+      "eval_loss": 0.29705652594566345,
+      "eval_runtime": 0.338,
+      "eval_samples_per_second": 2.959,
+      "eval_steps_per_second": 2.959,
+      "step": 3
+    },
+    {
+      "epoch": 4.0,
+      "eval_loss": 0.26064202189445496,
+      "eval_runtime": 0.3404,
+      "eval_samples_per_second": 2.938,
+      "eval_steps_per_second": 2.938,
+      "step": 4
+    },
+    {
+      "epoch": 5.0,
+      "eval_loss": 0.25870999693870544,
+      "eval_runtime": 0.3275,
+      "eval_samples_per_second": 3.053,
+      "eval_steps_per_second": 3.053,
+      "step": 5
+    },
+    {
+      "epoch": 6.0,
+      "eval_loss": 0.2703098952770233,
+      "eval_runtime": 0.3424,
+      "eval_samples_per_second": 2.92,
+      "eval_steps_per_second": 2.92,
+      "step": 6
+    },
+    {
+      "epoch": 7.0,
+      "eval_loss": 0.2910584509372711,
+      "eval_runtime": 0.34,
+      "eval_samples_per_second": 2.941,
+      "eval_steps_per_second": 2.941,
+      "step": 7
+    },
+    {
+      "epoch": 8.0,
+      "eval_loss": 0.3075084984302521,
+      "eval_runtime": 0.3205,
+      "eval_samples_per_second": 3.12,
+      "eval_steps_per_second": 3.12,
+      "step": 8
+    },
+    {
+      "epoch": 9.0,
+      "eval_loss": 0.31635183095932007,
+      "eval_runtime": 0.3257,
+      "eval_samples_per_second": 3.071,
+      "eval_steps_per_second": 3.071,
+      "step": 9
+    }
+  ],
   "logging_steps": 500,
   "max_steps": 10,
   "num_input_tokens_seen": 0,
@@ -25,7 +98,7 @@
       "attributes": {}
     }
   },
-  "total_flos": 2708880752640.0,
+  "total_flos": 3682384773120.0,
   "train_batch_size": 8,
   "trial_name": null,
   "trial_params": null

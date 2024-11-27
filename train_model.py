@@ -4,9 +4,6 @@ from sklearn.model_selection import train_test_split
 from evaluate import load
 import nltk
 
-# Télécharger les ressources NLTK nécessaires
-nltk.download('punkt')
-
 # Charger les données
 def load_data():
     data = {
@@ -35,6 +32,44 @@ def load_data():
                     {"segment": "LIN", "element": "Référence article", "xml": "<REF_NART>"},
                     {"segment": "QTY+47", "element": "Quantité", "xml": "<QUANTITE_FACTUREE>"},
                     {"segment": "PRI+AAA", "element": "Prix unitaire", "xml": "<PRIX_NET_PAR_UNITE>"}
+                ]
+            },
+            {
+                "incorrect_mapping": [
+                    {"segment": "BGM", "element": "Document ID", "xml": "<ID_DOC_ERR>"},
+                    {"segment": "DTM+137", "element": "Invoice Date", "xml": "<DOC_DATE>"},
+                    {"segment": "NAD+BY", "element": "Client Code", "xml": "<CLIENT_CODE_ERR>"},
+                    {"segment": "NAD+SU", "element": "Supplier ID", "xml": "<SUPPLIER_CODE_ERR>"},
+                    {"segment": "MOA+79", "element": "Total Amount", "xml": "<TOTAL_ERR>"},
+                    {"segment": "LIN", "element": "Line Number", "xml": "<LINE_NO_ERR>"},
+                    {"segment": "PRI+AAA", "element": "Unit Price", "xml": "<PRICE_ERR>"}
+                ],
+                "correct_mapping": [
+                    {"segment": "BGM", "element": "Document ID", "xml": "<DOCUMENT_ID>"},
+                    {"segment": "DTM+137", "element": "Invoice Date", "xml": "<DATE_INVOICE>"},
+                    {"segment": "NAD+BY", "element": "Client Code", "xml": "<CLIENT_CODE>"},
+                    {"segment": "NAD+SU", "element": "Supplier ID", "xml": "<SUPPLIER_CODE>"},
+                    {"segment": "MOA+79", "element": "Total Amount", "xml": "<TOTAL_AMOUNT>"},
+                    {"segment": "LIN", "element": "Line Number", "xml": "<LINE_NUMBER>"},
+                    {"segment": "PRI+AAA", "element": "Unit Price", "xml": "<UNIT_PRICE>"}
+                ]
+            },
+            {
+                "incorrect_mapping": [
+                    {"segment": "BGM", "element": "Transaction Code", "xml": "<TX_CODE>"},
+                    {"segment": "DTM+137", "element": "Transaction Date", "xml": "<DATE_TX>"},
+                    {"segment": "NAD+BY", "element": "User Code", "xml": "<USER_CODE_ERR>"},
+                    {"segment": "NAD+SU", "element": "Branch Code", "xml": "<BRANCH_CODE_ERR>"},
+                    {"segment": "LIN", "element": "Item ID", "xml": "<ITEM_ID_ERR>"},
+                    {"segment": "MOA+79", "element": "Transaction Amount", "xml": "<TX_AMOUNT_ERR>"}
+                ],
+                "correct_mapping": [
+                    {"segment": "BGM", "element": "Transaction Code", "xml": "<TRANSACTION_CODE>"},
+                    {"segment": "DTM+137", "element": "Transaction Date", "xml": "<TRANSACTION_DATE>"},
+                    {"segment": "NAD+BY", "element": "User Code", "xml": "<USER_CODE>"},
+                    {"segment": "NAD+SU", "element": "Branch Code", "xml": "<BRANCH_CODE>"},
+                    {"segment": "LIN", "element": "Item ID", "xml": "<ITEM_ID>"},
+                    {"segment": "MOA+79", "element": "Transaction Amount", "xml": "<TRANSACTION_AMOUNT>"}
                 ]
             }
         ]
@@ -95,7 +130,7 @@ model.resize_token_embeddings(len(tokenizer))
 # Utilisation de Seq2SeqTrainingArguments pour gérer `predict_with_generate`
 training_args = Seq2SeqTrainingArguments(
     output_dir="./results",
-    evaluation_strategy="epoch" if val_dataset else "no",
+    eval_strategy="epoch" if val_dataset else "no",
     learning_rate=2e-5,  # Optimisation du taux d'apprentissage
     per_device_train_batch_size=8,  # Taille de batch ajustée
     per_device_eval_batch_size=8,
@@ -111,7 +146,6 @@ trainer = Trainer(
     args=training_args,
     train_dataset=train_dataset,
     eval_dataset=val_dataset,
-    tokenizer=tokenizer,
     data_collator=DataCollatorForSeq2Seq(tokenizer, model=model)
 )
 
@@ -129,7 +163,7 @@ test_encodings = tokenizer(test_input, return_tensors="pt", padding=True, trunca
 test_output = model.generate(
     test_encodings["input_ids"],
     max_length=128,
-    num_beams=8,
+    num_beams=15,
     no_repeat_ngram_size=3,
     repetition_penalty=2.0,
     early_stopping=True

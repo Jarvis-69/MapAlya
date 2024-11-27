@@ -2,4 +2,4 @@
 **/model.safetensors
 **/predictions.json
 **/dnnl.lib
-**/torch_cpu.dll
+*.dll

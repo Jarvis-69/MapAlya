@@ -1,27 +1,35 @@
 # MapAlya
- 
-Python 3.10
 
+Python 3.10
 Ennvireonement virtuel
 
-pip install Pillow
+-------------------------------------------------------------
 
-Ajouter curl.exe dans variables d'Ennvireonement
-
+# Installations obligatoire
 pip install -r requirements.txt
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
-https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/
+-------------------------------------------------------------
 
-#Activer l'Ennvireonement virtuel
-.\venv\Scripts\activate
-python app.py
+# Activer l'Ennvireonement virtuel et commencer l'entrainement
+env\Scripts\activate
+python train_model.py
 
-#Analyer une image
-curl.exe -X POST -F "file=@C:\Users\Admin\Documents\GitHub\MapAlya\img\keyboard.jpg" http://127.0.0.1:5000/predict
+-------------------------------------------------------------
 
-#appV2
+# TOO MUCH
 pip install --upgrade tensorflow numpy protobuf tensorboard keras
 python data_generation.py
 python train_model.py
 
 Google Colab pour entrainement gratuit
+
+---------------------------------------------------------------
+
+# Recommncer à zero 
+Remove-Item -Recurse -Force .\env
+python -m venv env
+.\env\Scripts\Activate
+python -m pip install --upgrade pip setuptools
+pip install transformers torch torchvision tensorboard scikit-learn evaluate nltk accelerate
+pip check

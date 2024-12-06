@@ -2,6 +2,7 @@ from g4f.client import Client
 from sklearn.model_selection import train_test_split
 import asyncio
 import platform
+import json
 
 # Configuration pour Windows (boucle d'événement asynchrone)
 if platform.system() == "Windows":
@@ -58,30 +59,59 @@ incorrect_mappings, correct_mappings = load_data()
 def generate_corrections(incorrect_mappings):
     client = Client()
     outputs = []
+    token_counts = []
     for input_text in incorrect_mappings:
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[{"role": "user",
-                        "content": (
-                        f"The following EDIFACT mapping contains errors: {input_text}. "
-                        "Return only the corrected mapping, without additional explanation."
-                        )
-                    }],
+        prompt = (
+            "Corrige uniquement les éléments incorrects dans le mappage EDIFACT suivant. "
+            "Ne modifie pas les segments qui sont déjà corrects.\n\n"
+            # "Retourne le mappage corrigé au format JSON sans explications supplémentaires.\n\n"
+            f"Incorrect : {input_text}\n"
+            "Correct :"
         )
-        generated_output = response.choices[0].message.content.strip()
-        outputs.append(generated_output)
-    return outputs
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[{"role": "user", "content": prompt}],
+                n=1,
+                temperature=0.0
+            )
+            # Vérifier que la réponse contient des choix
+            if response.choices:
+                generated_output = response.choices[0].message.content.strip()
+                outputs.append(generated_output)
+                # Comptage des tokens (prompt + réponse)
+                usage = response.usage
+                token_counts.append(usage['total_tokens'])
+            else:
+                outputs.append("Erreur : Aucune réponse générée.")
+                token_counts.append(0)
+        except Exception as e:
+            outputs.append(f"Erreur : {str(e)}")
+            token_counts.append(0)
+    
+    return outputs, token_counts
+
+# Valider la sortie générée
+def validate_output(output):
+    try:
+        output = output.split("Correct :")[1].strip()
+        return output
+    except:
+        return "Erreur : Impossible de valider la sortie."
 
 # Génération des sorties
-generated_outputs = generate_corrections(incorrect_mappings)
+generated_outputs, token_counts = generate_corrections(incorrect_mappings)
 
-# Analyse et affichage des résultats
+# Validation et affichage des résultats
 for i, input_text in enumerate(incorrect_mappings):
     expected_output = correct_mappings[i]
     generated_output = generated_outputs[i]
+    tokens_used = token_counts[i]
 
     print(f"\nEntrée {i + 1} : {input_text}")
     print("----------------------------------------------------------------")
     print(f"Sortie attendue : {expected_output}")
     print("----------------------------------------------------------------")
     print(f"Sortie générée : {generated_output}")
+    print("----------------------------------------------------------------")
+    print(f"Tokens utilisés : {tokens_used}")

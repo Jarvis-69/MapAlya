@@ -1,4 +1,14 @@
-torch==2.0.1            # Version spécifique de PyTorch, ajustez selon votre environnement
-transformers==4.46.0    # Version spécifique de Transformers
-evaluate                # Pour les métriques, chargement via 'evaluate'
-scikit-learn            # Utilisé pour train_test_split
+torch
+transformers
+evaluate
+scikit-learn
+setuptools              
+torchvision
+tensorboard
+scikit-learn
+evaluate
+nltk
+accelerate
+rouge
+bleu
+METEOR

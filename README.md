@@ -25,3 +25,5 @@ python data_generation.py
 python train_model.py
 
 Google Colab pour entrainement gratuit
+
+pip install termcolor
